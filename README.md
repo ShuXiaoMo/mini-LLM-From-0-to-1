@@ -22,7 +22,7 @@ Build a mini-LLM from 0 to 1
 
 1.7 Overview of the Model.
 
-## Refences
+## References
 [1] https://github.com/jingyaogong/minimind
 
 [2] Vaswani A, Shazeer N, Parmar N, et al. Attention Is All You Need[EB/OL]. arXiv:1706.03762, 2017.
