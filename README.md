@@ -1,5 +1,5 @@
 # mini-LLM-From-0-to-1
-Build a mini-LLM from 0 to 1
+Build a mini-LLM from 0 to 1, and find mathematica in AI.
 
 ## News
 [2026/1/22] We release the script -- RMSNorm_temp.ipynb.
