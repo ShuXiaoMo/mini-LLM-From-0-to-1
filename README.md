@@ -2,7 +2,7 @@
 Build a mini-LLM from 0 to 1, and find mathematica in AI.
 
 ## News
-[2026/1/22] We release the script -- RMSNorm_temp.ipynb.
+[2026/1/22] We released the script -- RMSNorm_temp.ipynb.
 
 [2026/1/21] The repository was built!
 
