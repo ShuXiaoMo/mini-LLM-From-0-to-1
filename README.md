@@ -8,7 +8,7 @@ Build a mini-LLM from 0 to 1, and find mathematica in AI.
 
 ## Recent Plans
 ### 1 Base
-1.1 LayerNorm&RMSNorm(Layer Normalization&Root Mean Square Normalization);
+1.1 LayerNorm&RMSNorm(Layer Normalization&Root Mean Square Normalization);(**ing**)
 
 1.2 RoPE(Rotary Position Embedding)&YaRN;
 
